@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f7bd6b7-eb5f-4a56-906b-ff415ef1bf16" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/new_bursary.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="84" column="8" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bursary_application_printout.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="137" column="73" selection-start-line="137" selection-start-column="73" selection-end-line="137" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/email_approval_printout.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="22" column="43" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="54" />
+              <folding>
+                <element signature="e#1044#1050#0#HTML" expanded="true" />
+                <element signature="e#1050#1056#0#HTML" expanded="true" />
+                <element signature="e#1056#1062#0#HTML" expanded="true" />
+                <element signature="e#1062#1068#0#HTML" expanded="true" />
+                <element signature="e#1068#1074#0#HTML" expanded="true" />
+                <element signature="e#1074#1080#0#HTML" expanded="true" />
+                <element signature="e#1080#1086#0#HTML" expanded="true" />
+                <element signature="e#1086#1092#0#HTML" expanded="true" />
+                <element signature="e#1092#1098#0#HTML" expanded="true" />
+                <element signature="e#1098#1104#0#HTML" expanded="true" />
+                <element signature="e#1104#1110#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/register_user.php" />
+        <option value="$PROJECT_DIR$/add_applicant.php" />
+        <option value="$PROJECT_DIR$/register_applicant.php" />
+        <option value="$PROJECT_DIR$/new_applicant.php" />
+        <option value="$PROJECT_DIR$/staff_login.php" />
+        <option value="$PROJECT_DIR$/search_applicant_approve.php" />
+        <option value="$PROJECT_DIR$/approval_status.php" />
+        <option value="$PROJECT_DIR$/applicant_approvals.php" />
+        <option value="$PROJECT_DIR$/bursary_applications_by_date.php" />
+        <option value="$PROJECT_DIR$/bursary_applications_by_county.php" />
+        <option value="$PROJECT_DIR$/sysadmin_dashboard.php" />
+        <option value="$PROJECT_DIR$/bursary_applications_kisumu_county.php" />
+        <option value="$PROJECT_DIR$/bursary_applications_date_kisumu.php" />
+        <option value="$PROJECT_DIR$/bursary_applications_date_siaya.php" />
+        <option value="$PROJECT_DIR$/bursary_applications_siaya_county.php" />
+        <option value="$PROJECT_DIR$/bursary_applications_date_busia.php" />
+        <option value="$PROJECT_DIR$/bursary_applications_busia_county.php" />
+        <option value="$PROJECT_DIR$/bursary_applications_date_kisii.php" />
+        <option value="$PROJECT_DIR$/bursary_applications_kisii_county.php" />
+        <option value="$PROJECT_DIR$/bursary_applications_date_migori.php" />
+        <option value="$PROJECT_DIR$/bursary_applications_migori_county.php" />
+        <option value="$PROJECT_DIR$/bursary_applications_report_busia.php" />
+        <option value="$PROJECT_DIR$/bursary_applications_report_county.php" />
+        <option value="$PROJECT_DIR$/bursary_applications_report_date.php" />
+        <option value="$PROJECT_DIR$/bursary_applications_report_kisii.php" />
+        <option value="$PROJECT_DIR$/bursary_applications_report_kisumu.php" />
+        <option value="$PROJECT_DIR$/bursary_applications_report_migori.php" />
+        <option value="$PROJECT_DIR$/bursary_applications_report_siaya.php" />
+        <option value="$PROJECT_DIR$/bursary_applns_rep_date_busia.php" />
+        <option value="$PROJECT_DIR$/bursary_applns_rep_date_kisii.php" />
+        <option value="$PROJECT_DIR$/bursary_applns_rep_date_kisumu.php" />
+        <option value="$PROJECT_DIR$/bursary_applns_rep_date_migori.php" />
+        <option value="$PROJECT_DIR$/bursary_applns_rep_date_siaya.php" />
+        <option value="$USER_HOME$/Desktop/Jack2020/android_php/uploadHandler.php" />
+        <option value="$PROJECT_DIR$/uploadHandler.php" />
+        <option value="$PROJECT_DIR$/bursary_application1.php" />
+        <option value="$PROJECT_DIR$/bursary_application.php" />
+        <option value="$PROJECT_DIR$/kisii_dashboard.php" />
+        <option value="$PROJECT_DIR$/busia_dashboard.php" />
+        <option value="$PROJECT_DIR$/kisumu_dashboard.php" />
+        <option value="$PROJECT_DIR$/migori_dashboard.php" />
+        <option value="$PROJECT_DIR$/siaya_dashboard.php" />
+        <option value="$PROJECT_DIR$/bursary_application_Busia.php" />
+        <option value="$PROJECT_DIR$/bursary_application_Kisii.php" />
+        <option value="$PROJECT_DIR$/bursary_application_Kisumu.php" />
+        <option value="$PROJECT_DIR$/bursary_application_Migori.php" />
+        <option value="$PROJECT_DIR$/bursary_application_Siaya.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/email_approval_printout.php" />
+        <option value="$PROJECT_DIR$/bursary_application_printout.php" />
+        <option value="$PROJECT_DIR$/new_bursary.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1036" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lipia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lipia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lipia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lipia" type="462c0819:PsiDirectoryNode" />
+              <item name="uploads" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\lipia" />
+      <recent name="C:\Users\Jack\Desktop\Jack2020\android_php" />
+      <recent name="C:\xampp\htdocs\lipia\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f7bd6b7-eb5f-4a56-906b-ff415ef1bf16" name="Default Changelist" comment="" />
+      <created>1563351830509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563351830509</updated>
+      <workItem from="1563351831806" duration="21889000" />
+      <workItem from="1563441659312" duration="631000" />
+      <workItem from="1563467980603" duration="594000" />
+      <workItem from="1563473814190" duration="10236000" />
+      <workItem from="1563514980830" duration="802000" />
+      <workItem from="1563515980997" duration="510000" />
+      <workItem from="1563518081610" duration="44601000" />
+      <workItem from="1563776138770" duration="2451000" />
+      <workItem from="1563784267617" duration="88000" />
+      <workItem from="1563960286057" duration="2757000" />
+      <workItem from="1563963150116" duration="11312000" />
+      <workItem from="1563979484625" duration="2278000" />
+      <workItem from="1563984086988" duration="16982000" />
+      <workItem from="1564053834247" duration="1035000" />
+      <workItem from="1564059733255" duration="1106000" />
+      <workItem from="1564120378201" duration="3163000" />
+      <workItem from="1564129786396" duration="7417000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="127852000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15733737" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32843137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1580938" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32843137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/new_applicant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="38" column="62" selection-start-line="38" selection-start-column="62" selection-end-line="38" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staff_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="40" column="79" selection-start-line="40" selection-start-column="79" selection-end-line="40" selection-end-column="79" />
+          <folding>
+            <element signature="e#1750#1756#0#HTML" expanded="true" />
+            <element signature="e#1756#1762#0#HTML" expanded="true" />
+            <element signature="e#1762#1768#0#HTML" expanded="true" />
+            <element signature="e#1768#1774#0#HTML" expanded="true" />
+            <element signature="e#1774#1780#0#HTML" expanded="true" />
+            <element signature="e#1780#1786#0#HTML" expanded="true" />
+            <element signature="e#1786#1792#0#HTML" expanded="true" />
+            <element signature="e#1792#1798#0#HTML" expanded="true" />
+            <element signature="e#1798#1804#0#HTML" expanded="true" />
+            <element signature="e#1804#1810#0#HTML" expanded="true" />
+            <element signature="e#1810#1816#0#HTML" expanded="true" />
+            <element signature="e#1816#1822#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search_applicant_approve.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="28" column="94" selection-start-line="28" selection-start-column="94" selection-end-line="28" selection-end-column="94" />
+          <folding>
+            <element signature="e#1082#1088#0#HTML" expanded="true" />
+            <element signature="e#1088#1094#0#HTML" expanded="true" />
+            <element signature="e#1094#1100#0#HTML" expanded="true" />
+            <element signature="e#1100#1106#0#HTML" expanded="true" />
+            <element signature="e#1106#1112#0#HTML" expanded="true" />
+            <element signature="e#1112#1118#0#HTML" expanded="true" />
+            <element signature="e#1118#1124#0#HTML" expanded="true" />
+            <element signature="e#1124#1130#0#HTML" expanded="true" />
+            <element signature="e#1130#1136#0#HTML" expanded="true" />
+            <element signature="e#1136#1142#0#HTML" expanded="true" />
+            <element signature="e#1142#1148#0#HTML" expanded="true" />
+            <element signature="e#1148#1154#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applicant_approvals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020">
+          <caret line="38" column="53" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
+          <folding>
+            <element signature="e#4167#4173#0#HTML" expanded="true" />
+            <element signature="e#4173#4179#0#HTML" expanded="true" />
+            <element signature="e#4179#4185#0#HTML" expanded="true" />
+            <element signature="e#4185#4191#0#HTML" expanded="true" />
+            <element signature="e#4191#4197#0#HTML" expanded="true" />
+            <element signature="e#4197#4203#0#HTML" expanded="true" />
+            <element signature="e#4203#4209#0#HTML" expanded="true" />
+            <element signature="e#4209#4215#0#HTML" expanded="true" />
+            <element signature="e#4215#4221#0#HTML" expanded="true" />
+            <element signature="e#4221#4227#0#HTML" expanded="true" />
+            <element signature="e#4227#4233#0#HTML" expanded="true" />
+            <element signature="e#4233#4239#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/approval_status.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sysadmin_dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="47" column="85" selection-start-line="47" selection-start-column="85" selection-end-line="47" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applications_by_county.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applications_by_date.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#2325#2331#1#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applications_date_busia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="33" column="53" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applications_date_kisii.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applications_date_kisumu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applications_date_migori.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applications_kisumu_county.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applications_kisii_county.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="34" column="53" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applications_migori_county.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applications_date_siaya.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applications_report_busia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="50" column="24" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applications_report_county.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applications_report_date.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applications_report_kisii.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applications_report_kisumu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applications_report_migori.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applications_report_siaya.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applications_siaya_county.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-203">
+          <caret line="23" column="63" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applns_rep_date_busia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applns_rep_date_kisii.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applns_rep_date_kisumu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applns_rep_date_migori.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applns_rep_date_siaya.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploadHandler.php" />
+    <entry file="file://$USER_HOME$/Desktop/Jack2020/android_php/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="66" selection-start-line="6" selection-start-column="4" selection-end-line="9" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Jack2020/android_php/uploadHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="52" column="1" lean-forward="true" selection-start-line="2" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_applications_busia_county.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="33" column="53" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="31" selection-start-line="31" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/siaya_dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/migori_dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="29" column="72" selection-start-line="29" selection-start-column="72" selection-end-line="29" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kisumu_dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="29" column="72" selection-start-line="29" selection-start-column="72" selection-end-line="29" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kisii_dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/busia_dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_application_Busia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="277" column="91" selection-start-line="277" selection-start-column="91" selection-end-line="277" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_application_Kisii.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="277" column="91" selection-start-line="277" selection-start-column="91" selection-end-line="277" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_application_Kisumu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="277" column="92" selection-start-line="277" selection-start-column="92" selection-end-line="277" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_application_Migori.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="277" column="92" selection-start-line="277" selection-start-column="92" selection-end-line="277" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_application_Siaya.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="277" column="91" selection-start-line="277" selection-start-column="91" selection-end-line="277" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lipia - Copy/new_applicant.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lipia - Copy/new_bursary.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="50" column="92" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email_approval_printout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="54" />
+          <folding>
+            <element signature="e#1044#1050#0#HTML" expanded="true" />
+            <element signature="e#1050#1056#0#HTML" expanded="true" />
+            <element signature="e#1056#1062#0#HTML" expanded="true" />
+            <element signature="e#1062#1068#0#HTML" expanded="true" />
+            <element signature="e#1068#1074#0#HTML" expanded="true" />
+            <element signature="e#1074#1080#0#HTML" expanded="true" />
+            <element signature="e#1080#1086#0#HTML" expanded="true" />
+            <element signature="e#1086#1092#0#HTML" expanded="true" />
+            <element signature="e#1092#1098#0#HTML" expanded="true" />
+            <element signature="e#1098#1104#0#HTML" expanded="true" />
+            <element signature="e#1104#1110#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bursary_application_printout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="137" column="73" selection-start-line="137" selection-start-column="73" selection-end-line="137" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_bursary.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="84" column="8" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
